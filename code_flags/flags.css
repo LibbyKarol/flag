@@ -1,0 +1,73 @@
+.flag {
+	margin: 30px;
+	width: 600px;
+	height: 400px;
+	border: 1px solid black;
+	overflow: hidden;
+}
+
+/* Flag of Belgium */
+.black {
+	width: 200px;
+	height: 400px;
+	background: black;
+
+	}
+
+
+
+.yellow {
+	position: relative;
+	left: 200px;
+	bottom: 400px;
+	height: 400px;
+	width: 200px;
+	background: yellow;
+
+}
+
+.red {
+	position: relative;
+	left: 400px;
+	bottom: 800px;
+	height: 400px;
+	width: 200px;
+	background: red;
+}
+
+/* Flag of Japan */
+
+.circle { 
+	position: relative;
+	left: 200px;
+	top: 100px;
+	height:200px;
+	width: 200px;
+	background: red;
+	border-radius: 100px;
+ }
+
+/* Flag of Trinidad and Tobago */
+
+.back {
+	width: 600px;
+	height:400px;
+	Background: red;
+
+}
+
+.line {
+	width: 50px;
+	height: 750px;
+	background: black;
+	border-left: 15px solid white; border-right; 12px solid white; overflow: hidden;
+	border-right: 15px solid white; border-left; 12px solid white; overflow: hidden;
+	transform: rotate(-50deg);
+	position: relative;
+	left: 254px;
+	top: -580px;
+
+}
+
+
+}
